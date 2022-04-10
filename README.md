@@ -1,2 +1,2 @@
 # intromm.github.io
-Intro to MM Calss
+Intro to MM Class
